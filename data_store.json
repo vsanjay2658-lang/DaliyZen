@@ -1,0 +1,44 @@
+{
+  "habits": [
+    {
+      "name": "Exercise",
+      "completed": false,
+      "streak": 3
+    },
+    {
+      "name": "Meditation",
+      "completed": true,
+      "streak": 10
+    },
+    {
+      "name": "Reading",
+      "completed": false,
+      "streak": 1
+    }
+  ],
+  "items": [
+    {
+      "name": "Laptop",
+      "carried": true
+    },
+    {
+      "name": "ID Card",
+      "carried": false
+    },
+    {
+      "name": "Water Bottle",
+      "carried": true
+    }
+  ],
+  "schedules": [
+    {
+      "title": "Team Meeting",
+      "date": "",
+      "time": "14:00",
+      "status": "upcoming"
+    }
+  ],
+  "profile": {
+    "username": "demo"
+  }
+}
